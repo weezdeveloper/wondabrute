@@ -32,7 +32,7 @@ banner() {
 printf "\e[1;95m__        ____   _   _   ____    _    \e[0m\n"
 printf "\e[1;95m\\ \\      / /  \\ | \\ | | |  _ \\  / \\   \e[0m\n"
 printf "\e[1;95m \\ \\ /\\ / /| | |  \\| | | | | |/ _ \\  \e[0m\n"
-printf "\e[1;95m  \\ V  V / | | | . ` | | |_| / ___ \\ \e[0m\n"
+printf "\e[1;95m  \\ V  V / | | | . \` | | |_| / ___ \\ \e[0m\n"
 printf "\e[1;77m   \\_/\\_/  |_| |_|\\_| |____/_/   \\_\\\e[0m\n"
 printf "\n"
 printf "\e[1;77m\e[41m  Wonda Instagram Brute Force v1.0, Author: @weezdeveloper (Github)  \e[0m\n"
