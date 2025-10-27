@@ -29,19 +29,19 @@ var2=$(echo $var0 | grep -o 'csrftoken=.*' | cut -d ';' -f1 | cut -d '=' -f2)
 
 banner() {
 
-printf "\e[1;95m__ __ ______ __ __ _______ ______ \e[0m\n"
-printf "\e[1;95m| \ _ | \ / \ | \ | \| \ / \   \e[0m\n"
-printf "\e[1;95m| $$ / \ | $$| $$$$$$\| $$\ | $$| $$$$$$$\| $$$$$$\  \e[0m\n"
-printf "\e[1;95m| $$/ $\| $$| $$ | $$| $$$\| $$| $$ | $$| $$__| $$ \e[0m\n"
-printf "\e[1;95m| $$ $$$\ $$| $$ | $$| $$$$\ $$| $$ | $$| $$ $$ \e[0m\n"
-printf "\e[1;95m| $$ $$\$$\$$| $$ | $$| $$\$$ $$| $$ | $$| $$$$$$$$ \e[0m\n"
-printf "\e[1;95m| $$$$ \$$$$| $$__/ $$| $$ \$$$$| $$__/ $$| $$ | $$ \e[0m\n"
-printf "\e[1;95m| $$$ \$$$ \$$ $$| $$ \$$$| $$ $$| $$ | $$ \e[0m\n"
-printf "\e[1;95m\$$ \$$ \$$$$$$ \$$ \$$ \$$$$$$$ \$$ \$$ \e[0m\n"
+printf "\e[1;95m __          ______  _   _ _____          \e[0m\n"
+printf "\e[1;95m \ \        / / __ \| \ | |  __ \   /\    \e[0m\n"
+printf "\e[1;95m  \ \  /\  / / |  | |  \| | |  | | /  \   \e[0m\n"
+printf "\e[1;95m   \ \/  \/ /| |  | | . ` | |  | |/ /\ \  \e[0m\n"
+printf "\e[1;95m    \  /\  / | |__| | |\  | |__| / ____ \ \e[0m\n"
+printf "\e[1;95m     \/  \/   \____/|_| \_|_____/_/    \_\ \e[0m\n"
+printf "\e[1;95m                                           \e[0m\n"
+
 
 printf "\n"
-printf "\e[1;77m\e[41m  Wonda Instagram Brute Force v1.0, Author: @weezdeveloper (Github)  \e[0m\n"
+printf "\e[1;77m\e[41m  WONDA Instagram Brute Force v1.0, Author: @weezdeveloper (Github)  \e[0m\n"
 printf "\n"
+
 
 }
 
