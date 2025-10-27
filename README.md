@@ -14,6 +14,9 @@ Usage of InstaInsane for attacking targets without prior mutual consent is illeg
 - Check valid usernames
 - Default password list (best +39k 8 letters)
 - Check and Install all dependencies
+ 
+<img width="520" height="214" alt="image" src="https://github.com/user-attachments/assets/ca624caa-b05b-4a77-8ac3-c9fbb18e3e40" />
+
 
 ### Usage:
 ```
